@@ -1,8 +1,8 @@
-# BLUFF-RAG-500 Benchmark
+# BLUFF-1000 Benchmark
 
 > **Benchmark for Large Language Model Understanding of Factual Fallibility in Retrieval-Augmented Generation**
 
-BLUFF-RAG-500 is a comprehensive benchmark and evaluation harness for assessing calibration-aware Retrieval-Augmented Generation (RAG) systems across multiple models (GPT-4o, LLaMA-2/70B, Mistral-7B, Gemini).
+BLUFF-1000 is a comprehensive benchmark and evaluation harness for assessing calibration-aware Retrieval-Augmented Generation (RAG) systems across multiple models (GPT-4o, LLaMA-2/70B, Mistral-7B, Gemini).
 
 ## 🎯 Core Hypotheses
 
